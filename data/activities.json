@@ -271,6 +271,22 @@
       "isLongTerm": false,
       "createdAt": "2026-08-12T08:29:43.294Z",
       "updatedAt": "2026-08-12T08:29:43.294Z"
+    },
+    {
+      "id": "act_mspu11au_drmd",
+      "name": "抖b社群限定晒模晒谷活动",
+      "activityStartDate": "2026-08-12T14:00",
+      "activityEndDate": "2026-08-14T19:00",
+      "prizeStartDate": "2026-08-17T16:00",
+      "prizeEndDate": "2026-08-19T18:00",
+      "rules": "<div>滴滴~社群限定活动晒模晒谷又来啦~</div><div>🐇快来晒出家里的模玩or谷美照片！好看的、有意义的、个性的、不那么个性但就是“我觉得好”的😁都晒出来～ @所有人 </div><div><br></div><div>✨ 本兔这次再挑选1位我心中的「最佳晒模or晒谷王」，送一个景品手办or~fufu！</div><div>✨ 再随机揪2位送【199-20优惠券】～</div><div>即刻开始，本周内参与，下周一开奖~【ps闪现时间不定，越早参与越可能被看见哦🫣</div><div><br></div>",
+      "entry": "抖b任意私域小窝群内晒图，即可参与~",
+      "prizeMethod": "1.加入任意抖b私域小窝<div>2.带着中奖截图私戳群管理小兔，等待奖品发放即可~</div>",
+      "prizes": "<div>「最佳晒模or晒谷王」——景品手办or~fufu*1</div><div>199-20优惠券*2</div>",
+      "remark": "",
+      "isLongTerm": false,
+      "createdAt": "2026-08-12T08:33:26.742Z",
+      "updatedAt": "2026-08-12T08:33:26.742Z"
     }
   ]
 }
