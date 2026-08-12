@@ -255,6 +255,22 @@
       "isLongTerm": false,
       "createdAt": "2026-08-11T11:08:26.483Z",
       "updatedAt": "2026-08-11T11:10:00.640Z"
+    },
+    {
+      "id": "act_msptw8vy_4hl5",
+      "name": "抖b【七夕限定社群邀新】活动开启！",
+      "activityStartDate": "2026-08-13T10:00",
+      "activityEndDate": "2026-08-21T23:59",
+      "prizeStartDate": "2026-08-24T10:00",
+      "prizeEndDate": "2026-08-26T18:00",
+      "rules": "<div>✨活动规则：</div><div>1.扫描问卷二维码进群，也可通过问卷二维码邀请新人小伙伴进群</div><div>https://www.wenjuan.com/s/BFzaa2L/#</div><div>2.入群点击群公告参与抽奖，即可获得抽奖资格，活动结束后会在群内开奖</div>",
+      "entry": "https://wxmpurl.cn/I7RPeU7rx5a",
+      "prizeMethod": "<div>1.结果发布与抽奖：8.24根据人数达标情况进行抽奖，抽奖结果同步在群里（so退群无效~）</div><div>2.截图登记领奖励：中奖结果发布后，带中奖页面截图私戳群管理员“小兔”登记，即可领取对应奖励！</div>",
+      "prizes": "<div>1.参与人数满150人，送出满299-30券*5</div><div>2.参与人数满200人，送出指定fufu*1</div><div>3.参与人数满300人，送出指定fufu*3</div>",
+      "remark": "",
+      "isLongTerm": false,
+      "createdAt": "2026-08-12T08:29:43.294Z",
+      "updatedAt": "2026-08-12T08:29:43.294Z"
     }
   ]
 }
