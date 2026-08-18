@@ -287,6 +287,22 @@
       "isLongTerm": false,
       "createdAt": "2026-08-12T08:33:26.742Z",
       "updatedAt": "2026-08-12T08:33:26.742Z"
+    },
+    {
+      "id": "act_msyas9bt_zbtx",
+      "name": "抖b手办模玩群限定活动",
+      "activityStartDate": "2026-08-18T18:00",
+      "activityEndDate": "2026-08-27T18:00",
+      "prizeStartDate": "2026-08-18T18:00",
+      "prizeEndDate": "2026-08-27T18:00",
+      "rules": "本群限定福利来袭~8.18-8.27期间，每天下午18：00定时掉落10元无门槛券（包含周末）！数量有限先到先得，小伙伴们定好闹钟准备开抢~",
+      "entry": "抖b手办模玩“七夕限定”群内",
+      "prizeMethod": "",
+      "prizes": "",
+      "remark": "",
+      "isLongTerm": false,
+      "createdAt": "2026-08-18T06:44:40.121Z",
+      "updatedAt": "2026-08-18T06:44:40.121Z"
     }
   ]
 }
