@@ -303,6 +303,22 @@
       "isLongTerm": false,
       "createdAt": "2026-08-18T06:44:40.121Z",
       "updatedAt": "2026-08-18T06:44:40.121Z"
+    },
+    {
+      "id": "act_mt8dxgoi_4r5m",
+      "name": "抖b开学季限定扭蛋机",
+      "activityStartDate": "2026-08-26T10:00",
+      "activityEndDate": "2026-09-06T23:59",
+      "prizeStartDate": "2026-09-07T10:00",
+      "prizeEndDate": "2026-09-09T18:00",
+      "rules": "<div>「抖b开学季限定幸运扭蛋机」活动来啦———&nbsp;</div><div>参与直达👉https://wxmpurl.cn/weatimiCtXa</div><div><br></div><div>✨扭蛋池包含：&nbsp;</div><div>✅一等奖：制服景品手办（开学季限定！）</div><div>✅二等奖：指定fufu</div><div>✅三等奖：499-50优惠券</div><div>✅四等奖：299-30优惠券</div><div>✅五等奖：99-10优惠券</div><div><br></div><div>💡活动规则：</div><div>1.活动期间，每人每天可解锁1次免费扭蛋机会（仅当日有效，过期作废）。&nbsp;</div><div>2.点击【获取次数】加入指定绿泡泡私域群、qq群，均可额外再获得1次扭蛋机会（进群后点击群公告链接或扫描二维码领取次数）。</div><div><br></div><div>💡活动参与方式【高亮】：&nbsp;</div><div>8月26日-9月6日（23:59）期间，点击抖音主页加入“开学季限定”公开群，即可参与社群幸运扭蛋活动，每日免费抽壕礼！&nbsp;&nbsp;</div><div><br></div><div>⏰活动时间：8.26-9.6晚23:59</div><div>兑换时间：9.7-9.9晚6:00（限工作日）&nbsp;</div><div><br></div><div>🔮兑换方式&amp;更多活动请关注：https://ymymsofie.github.io/xc-activityboard/</div>",
+      "entry": "<span style=\"font-size: 15.2px;\">https://wxmpurl.cn/weatimiCtXa</span>",
+      "prizeMethod": "1.扫描扭蛋机中的群二维码加入抖b私域小窝<div>2.添加群管理员小兔</div><div>3.带着中奖核销码私信小兔，耐心等待奖品发放即可~</div>",
+      "prizes": "<div>✅一等奖：制服景品手办（开学季限定！）</div><div>✅二等奖：指定fufu</div><div>✅三等奖：499-50优惠券</div><div>✅四等奖：299-30优惠券</div><div>✅五等奖：99-10优惠券</div>",
+      "remark": "",
+      "isLongTerm": false,
+      "createdAt": "2026-08-25T08:10:23.538Z",
+      "updatedAt": "2026-08-25T08:14:29.030Z"
     }
   ]
 }
