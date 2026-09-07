@@ -319,6 +319,22 @@
       "isLongTerm": false,
       "createdAt": "2026-08-25T08:10:23.538Z",
       "updatedAt": "2026-08-25T08:14:29.030Z"
+    },
+    {
+      "id": "act_mtqwpfgv_pdk1",
+      "name": "抖bの你打卡了吗（第十二期）",
+      "activityStartDate": "2026-09-08T15:30",
+      "activityEndDate": "2026-10-07T23:59",
+      "prizeStartDate": "2026-10-08T14:00",
+      "prizeEndDate": "2026-10-14T18:00",
+      "rules": "<span style=\"font-size: 15.2px;\">一个月内签到满10次即获得抽奖资格，</span>签到结束后会在抖b私域社群通过随机抽签小程序开奖。",
+      "entry": "https://m.xiaoqiandao.com/detail?cid=6a9e671ef466b71eff952273",
+      "prizeMethod": "Step1：添加抖b社群管理员为好友<div>Step2：带签到截图私聊管理员兑奖</div>",
+      "prizes": "<div><b>🎁活动奖品：</b></div><div><b>1.满签奖励：在签到次数达30天的小伙伴中，抽取1人送景品手办 *1</b></div><div><b>2.一等奖：在签到天数≥26天的小伙伴中，抽取2人送指定fufu*1</b></div><div><b>3.二等奖：在签到天数≥20天的小伙伴中，抽取5人送599-60满减券*1</b></div><div><b>3.三等奖：在签到天数≥10天的小伙伴中，抽取8人送399-40满减券*1</b></div><div><b>（签到次数多的大佬可以重复参与其他奖项的抽取，例如满签的大佬可以同时参与满签/一/二/三等奖的抽取）</b></div><div><b>【新增！！！自本月起，连续打卡满25天的小伙伴额外增加</b><span style=\"font-size: 0.95rem;\">「满200-25 元优惠券」保底奖励！参与必中奖！】（ps：保底奖励与抽奖奖品不可兼得，以中奖情形为主~）</span></div><div><br></div>",
+      "remark": "<br>",
+      "isLongTerm": false,
+      "createdAt": "2026-09-07T07:15:52.591Z",
+      "updatedAt": "2026-09-07T07:26:43.941Z"
     }
   ]
 }
